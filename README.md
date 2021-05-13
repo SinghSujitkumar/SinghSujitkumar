@@ -1,15 +1,12 @@
 
 ### Hi there 👋 I am Sujitkumar Singh
 
-<!--
-**SinghSujitkumar/SinghSujitkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently trying to solve problems pythonically!
 - 🌱 I’m currently learning Data Science
 - 💬 Ask me about Python
 
--->
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/sujitsofficial)
