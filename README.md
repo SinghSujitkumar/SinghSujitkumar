@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science
 - 💬 Ask me about Python
 
-
+[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/sujitsofficial)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/SinghSujitkumar)
