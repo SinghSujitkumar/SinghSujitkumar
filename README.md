@@ -46,6 +46,6 @@
 
 
 <p align = "center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghSujitkumar&show_icons=true&theme=bear" width = 400/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghSujitkumar&show_icons=true&theme=bear"/>
   <img src = "https://github-readme-stats.vercel.app/api?username=SinghSujitkumar&show_icons=true&theme=bear" width = 400>
 </p>
