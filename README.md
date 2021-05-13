@@ -15,8 +15,7 @@
 ## Technology Stack
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript?&logo=javascript&logoColor=white)](https://www.javascript.com/)
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
@@ -27,10 +26,9 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
 
-
-
-
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23F7DF1C?style=flat-square&logo=tensorflow&logoColor=000000&color=%23FFCE5A)](https://www.tensorflow.org/)
 
 
 
