@@ -16,7 +16,7 @@
 ## Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu?style=flat-square&logo=Ubuntu&logoColor=262577)](https://www.ubuntu.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu?style=flat-square&logo=ubuntu&logoColor=262577)](https://www.ubuntu.org/)
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
@@ -28,7 +28,7 @@
 
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
-[![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=Laravel&logoColor=ffffff)](https://flask.palletsprojects.com/)
+[![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=Laravel&logoColor=ffffff)](https://laravel.com/)
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
@@ -40,7 +40,7 @@
 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23F7DF1C?style=flat-square&logo=tensorflow&logoColor=000000&color=%23FFCE5A)](https://www.tensorflow.org/)
 [![OpenCV](https://img.shields.io/badge/-Opencv-%23F7DF1C?style=flat-square&logo=opencv&logoColor=000000&color=%23FFCE5A)](https://www.opencv.org/)
-[![Keras](https://img.shields.io/badge/-Keras-%23F7DF1C?style=flat-square&logo=opencv&logoColor=000000&color=%23FFCE5A)](https://www.keras.org/)
+[![Keras](https://img.shields.io/badge/-Keras-%23F7DF1C?style=flat-square&logo=keras&logoColor=000000&color=%23FFCE5A)](https://www.keras.org/)
 
 
 
