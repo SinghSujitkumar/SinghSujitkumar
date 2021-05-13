@@ -13,8 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](linkedin.com/in/sujitkumar-singh-747840171)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:sujitkumarsingh3017@gmail.com)
 
-<div class="row">
-  <div class="col-md-6" markdown="1">
+
     
 ## Operating System & Tools
 
@@ -23,8 +22,7 @@
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-</div>
-<div class="col-md-6" markdown="1">
+
 ## Technology Stack
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -47,8 +45,7 @@
 [![Keras](https://img.shields.io/badge/-Keras-%23F7DF1C?style=flat-square&logo=keras&logoColor=000000&color=%23FFCE5A)](https://www.keras.org/)
 
 
-  </div>
-</div>
+
 
 
 
