@@ -16,7 +16,7 @@
 ## Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![Ubuntu](https://img.shields.io/badge/ubuntu?style=flat-square&logo=ubuntu&logoColor=262577)](https://www.ubuntu.org/)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-blue?style=flat-square&logo=ubuntu&logoColor=262577)](https://www.ubuntu.org/)
 
 [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
