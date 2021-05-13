@@ -12,6 +12,15 @@
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/SinghSujitkumar)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](linkedin.com/in/sujitkumar-singh-747840171)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:sujitkumarsingh3017@gmail.com)
+
+## Operating System & Tools
+
+[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu?style=flat-square&logo=Ubuntu&logoColor=262577)](https://www.ubuntu.org/)
+
+[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
 ## Technology Stack
 
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -23,12 +32,15 @@
 
 
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/-Firebase-47A248?style=flat-square&logo=Firebase&logoColor=ffffff)](https://www.firebase.com/)
+
 
 
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-%23F7DF1C?style=flat-square&logo=tensorflow&logoColor=000000&color=%23FFCE5A)](https://www.tensorflow.org/)
+[![OpenCV](https://img.shields.io/badge/-Opencv-%23F7DF1C?style=flat-square&logo=opencv&logoColor=000000&color=%23FFCE5A)](https://www.opencv.org/)
+[![Keras](https://img.shields.io/badge/-Keras-%23F7DF1C?style=flat-square&logo=opencv&logoColor=000000&color=%23FFCE5A)](https://www.keras.org/)
 
 
 
