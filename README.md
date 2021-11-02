@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/sujitscom)
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/SinghSujitkumar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](linkedin.com/in/sujitkumar-singh)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sujitkumar-singh)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:sujitkumarsingh3017@gmail.com)
 
 
