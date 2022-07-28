@@ -3,9 +3,8 @@
 
 
 
-- 🔭 I’m currently trying to solve problems pythonically!
-- 🌱 I’m currently learning Data Science
-- 💬 Ask me about Python
+- 🔭 Currently Scaling PayPal's SAP Env Team
+- 🌱 I’m currently buidling full stack Applications using Python/Java/JavaScript
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/sujitscom)
