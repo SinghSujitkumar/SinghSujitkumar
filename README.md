@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Currently Scaling PayPal's SAP Env Team
+- 🔭 Currently Working in PayPal's Platform Eng Team
 - 🌱 I’m currently buidling full stack Applications using Python/Java/JavaScript
 
 
