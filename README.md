@@ -4,7 +4,7 @@
 
 
 - 🔭 Currently Working in PayPal's Platform Eng Team
-- 🌱 I’m currently buidling full stack Applications using Python/Java/JavaScript
+- 🌱 I’m currently building full stack Web Applications using Java/JavaScript/Python
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/sujitscom)
